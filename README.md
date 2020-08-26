@@ -5,4 +5,4 @@
 Tips
 - like C syntax.
 - implemented by golang.
-- use `ast - abstract tree`
+- use `ast - abstract Syntax tree`
